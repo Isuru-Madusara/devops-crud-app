@@ -283,16 +283,6 @@ Through this project, I gained practical experience with:
 - Configuring Nginx as a reverse proxy.
 - Understanding cloud networking and deployment automation.
 
-## 🚀 Future Improvements
-
-- Enable HTTPS with automated certificate renewal.
-- Add authentication and authorization.
-- Expand automated tests to cover update and delete operations.
-- Improve database migration and backup automation.
-- Add application monitoring, centralized logs, and alerts.
-- Introduce separate development and production environments.
-
-## 👨‍💻 Author
 
 **Isuru Madusara**
 
