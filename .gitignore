@@ -1,0 +1,26 @@
+
+# Node.js dependencies
+node_modules/
+**/node_modules/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Terraform generated files and secrets
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+terraform.tfvars.json
+*.pem
+*.key
+
+# Logs
+npm-debug.log*
+*.log
+
+# Operating system
+.DS_Store
