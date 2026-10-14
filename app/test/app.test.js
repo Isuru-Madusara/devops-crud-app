@@ -1,7 +1,7 @@
 const test = require("node:test");
 const assert = require("node:assert/strict");
 const request = require("supertest");
-const { createApp } = require("../app/server");
+const { createApp } = require("../server");
 
 function fakeDatabase() {
   let tasks = [];
