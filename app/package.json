@@ -1,0 +1,19 @@
+{
+  "name": "devops-crud-app",
+  "version": "1.0.0",
+  "description": "CRUD Task Management application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test ../test/*.test.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.3.1"
+  }
+}
