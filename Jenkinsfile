@@ -81,7 +81,7 @@ stage('Deploy with Ansible') {
             }
         }
     }
-}
+}}
 
     post {
         always {
